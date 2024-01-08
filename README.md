@@ -1,2 +1,2 @@
 # three-test
-Created with CodeSandbox
+This is just a bullshit game that I have created using threejs library and JavaScript hehe
